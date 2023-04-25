@@ -1,3 +1,5 @@
+![logo] (https://github.com/Sheikh-Araf/VieWave/blob/main/icons/logo.png)
+
 ## VieWave
 This is a powerful image processing software designed to calculate wave power based on user-defined maps for wave height and wave period. The tool allows users to upload and select custom maps with varying scales for each parameter, making it ideal for analyzing complex pixel data for any area. The user-friendly interface guides users through the process of selecting and saving data points, and the software stores results in an array for easy analysis. Results are displayed and can be exported as CSV files and visualized through graphs. With the ability to handle multiple maps and scales, this tool is a valuable resource for researchers, oceanographers, and anyone interested in wave power analysis.
 
@@ -5,6 +7,7 @@ This is a powerful image processing software designed to calculate wave power ba
 
 In the study of sea waves, linear wave theory states that the mean energy density per unit area of gravity waves on the water surface is proportional to the square of the wave height. This relationship can be expressed mathematically as 
 
+![equation] (https://github.com/Sheikh-Araf/VieWave/blob/main/img/eq.png)
 
 , where E represents the mean wave energy density per unit horizontal area (J/m2). The total wave energy density is composed of equal parts kinetic and potential energy density, both contributing half to the total energy density. This is in accordance with the equipartition theorem.
 
@@ -12,6 +15,11 @@ In the study of sea waves, linear wave theory states that the mean energy densit
 Welcome to the user guide for using the software! I have provided detailed instructions to help you navigate the various functions of the application. Please follow the steps carefully to ensure accurate results.
 
 Before we start, please note that only one map can be selected at a time. This means that you cannot compute the wave height and time period simultaneously. It is recommended to select the "wave height" option before choosing the "time period."
+
+
+![app](https://github.com/Sheikh-Araf/VieWave/blob/main/img/mainapp.png)
+
+
 
 **Step 1:** Select the scale next to the wave height button. You can do this by using the *"Choose Scale Button."*
 
@@ -67,3 +75,9 @@ This image processing software has the following features:
 -   Stores results in an array for easy analysis
 -   Displays results and can export them as CSV files and visualize them through graphs
 -   Can handle multiple maps and scales, making it ideal for analyzing complex pixel data for any area
+
+
+
+## License
+
+[MIT] (https://github.com/Sheikh-Araf/VieWave/blob/main/LICENSE)
