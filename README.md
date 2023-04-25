@@ -62,8 +62,8 @@ It is important to note that the selected black dots on the scale image will be 
  - Please note that the status bar will display your actions and what needs to be done. The steps you have missed and completed will be recorded in the activity log.
  - Please exercise caution when using the software, as it is still under development. Please follow the instructions carefully and avoid pressing buttons without proper guidance. If an error is shown in the log, you can use the Restart button to refresh the software and start over. All data will be erased when using this feature.
 
-##  YouTube Demo Here
-- [Click here] (https://youtu.be/A8VYX3L38vc)
+##  YouTube Tutorial Here
+- https://youtu.be/A8VYX3L38vc
 
 ## Features
 
